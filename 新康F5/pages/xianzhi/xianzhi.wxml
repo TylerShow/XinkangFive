@@ -1,0 +1,5 @@
+<!--pages/xianzhi/xianzhi.wxml-->
+<text>欢迎来到一典</text>
+<view>
+   <navigator>我的</navigator>
+</view>

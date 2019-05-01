@@ -1,0 +1,14 @@
+{
+  "pages":[
+
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/xianzhi/xianzhi"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "先知一典",
+    "navigationBarTextStyle":"black"
+  }
+}
